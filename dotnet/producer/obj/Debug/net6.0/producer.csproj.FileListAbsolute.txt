@@ -1,0 +1,17 @@
+C:\Users\ibrahim\SampleMQ\dotnet\producer\bin\Debug\net6.0\producer.exe
+C:\Users\ibrahim\SampleMQ\dotnet\producer\bin\Debug\net6.0\producer.deps.json
+C:\Users\ibrahim\SampleMQ\dotnet\producer\bin\Debug\net6.0\producer.runtimeconfig.json
+C:\Users\ibrahim\SampleMQ\dotnet\producer\bin\Debug\net6.0\producer.dll
+C:\Users\ibrahim\SampleMQ\dotnet\producer\bin\Debug\net6.0\producer.pdb
+C:\Users\ibrahim\SampleMQ\dotnet\producer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\ibrahim\SampleMQ\dotnet\producer\obj\Debug\net6.0\producer.csproj.AssemblyReference.cache
+C:\Users\ibrahim\SampleMQ\dotnet\producer\obj\Debug\net6.0\producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim\SampleMQ\dotnet\producer\obj\Debug\net6.0\producer.AssemblyInfoInputs.cache
+C:\Users\ibrahim\SampleMQ\dotnet\producer\obj\Debug\net6.0\producer.AssemblyInfo.cs
+C:\Users\ibrahim\SampleMQ\dotnet\producer\obj\Debug\net6.0\producer.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\SampleMQ\dotnet\producer\obj\Debug\net6.0\producer.csproj.CopyComplete
+C:\Users\ibrahim\SampleMQ\dotnet\producer\obj\Debug\net6.0\producer.dll
+C:\Users\ibrahim\SampleMQ\dotnet\producer\obj\Debug\net6.0\refint\producer.dll
+C:\Users\ibrahim\SampleMQ\dotnet\producer\obj\Debug\net6.0\producer.pdb
+C:\Users\ibrahim\SampleMQ\dotnet\producer\obj\Debug\net6.0\producer.genruntimeconfig.cache
+C:\Users\ibrahim\SampleMQ\dotnet\producer\obj\Debug\net6.0\ref\producer.dll
